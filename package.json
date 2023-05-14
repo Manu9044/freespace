@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "freespace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Manu9044/freespace.git",
+  "author": "Manu R",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.23",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.2"
+  }
+}
